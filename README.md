@@ -5,7 +5,7 @@ Clone repository
 -------------------
 
 ```
-git clone https://github.com/arabyat/arabyat-yii2-docker-compose
+git clone https://github.com/arabyat/yii2-docker-compose
 ```
 
 Run dockers
